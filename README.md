@@ -10,7 +10,12 @@ This is a quiz app developed using Flutter that allows users to take quizzes and
 - Option to restart the quiz
 
 ## Screenshots
-
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/Syed-Abdullah-G/quiz-app/blob/main/WhatsApp%20Image%202024-05-13%20at%2010.18.44%20PM(1).jpeg?raw=true" alt="Screenshot 1"></td>
+    <td align="center"><img src="https://github.com/Syed-Abdullah-G/quiz-app/blob/main/WhatsApp%20Image%202024-05-13%20at%2010.18.44%20PM.jpeg?raw=true" alt="Screenshot 2"></td>
+  </tr>
+</table>
 
 
 ## Getting Started
