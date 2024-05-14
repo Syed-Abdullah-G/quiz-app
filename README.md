@@ -44,12 +44,6 @@ To run this project locally, follow these steps:
 4. Once you complete the quiz, your result will be displayed.
 5. You can choose to restart the quiz if you want to try again.
 
-## Dependencies
-
-- [flutter_bloc](https://pub.dev/packages/flutter_bloc): State management library for Flutter.
-- [http](https://pub.dev/packages/http): HTTP client for making API calls.
-- [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons): Tool for generating launcher icons for both iOS and Android.
-
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
