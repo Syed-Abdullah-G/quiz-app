@@ -10,12 +10,20 @@ This is a quiz app developed using Flutter that allows users to take quizzes and
 - Option to restart the quiz
 
 ## Screenshots
+
 <table>
   <tr>
     <td align="center"><img src="https://github.com/Syed-Abdullah-G/quiz-app/blob/main/WhatsApp%20Image%202024-05-13%20at%2010.18.44%20PM(1).jpeg?raw=true" alt="Screenshot 1"></td>
     <td align="center"><img src="https://github.com/Syed-Abdullah-G/quiz-app/blob/main/WhatsApp%20Image%202024-05-13%20at%2010.18.44%20PM.jpeg?raw=true" alt="Screenshot 2"></td>
+    <td align="center"><img src="https://github.com/Syed-Abdullah-G/quiz-app/blob/main/WhatsApp%20Image%202024-05-13%20at%2010.18.45%20PM(1).jpeg?raw=true" alt="Screenshot 3"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/Syed-Abdullah-G/quiz-app/blob/main/WhatsApp%20Image%202024-05-13%20at%2010.18.45%20PM(2).jpeg?raw=true" alt="Screenshot 4"></td>
+    <td align="center"><img src="https://github.com/Syed-Abdullah-G/quiz-app/blob/main/WhatsApp%20Image%202024-05-13%20at%2010.18.45%20PM.jpeg?raw=true" alt="Screenshot 5"></td>
+    <td align="center"><img src="https://github.com/Syed-Abdullah-G/quiz-app/blob/main/WhatsApp%20Image%202024-05-13%20at%2010.18.46%20PM.jpeg?raw=true" alt="Screenshot 6"></td>
   </tr>
 </table>
+
 
 
 ## Getting Started
